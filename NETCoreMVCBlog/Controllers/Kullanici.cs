@@ -2,8 +2,9 @@
 {
     public class Kullanici
     {
-        public string KullaniciAdi { get; set; }
+        public int Id { get; set; }
         public string Email { get; set; }
         public string Sifre { get; set; }
+        
     }
 }
